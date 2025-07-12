@@ -121,7 +121,7 @@ programs = {
   users.users.somya = {
     isNormalUser = true;
     description = "Somya";
-    extraGroups = [ "networkmanager" "wheel" ];
+    extraGroups = [ "networkmanager" "wheel" "git" ];
     packages = with pkgs; [
 	slstatus
 	dwmblocks
