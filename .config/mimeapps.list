@@ -1,0 +1,5 @@
+[Default Applications]
+application/x-shellscript=org.kde.kate.desktop
+
+[Added Associations]
+application/x-shellscript=org.kde.kate.desktop;
